@@ -1,0 +1,101 @@
+{
+	"titulo":"Lei 12973",
+	"ordem":3,
+	"descricao":"III. Perguntas gerais acerca dos principais impactos da Lei 12.973/2014 e IN 1.700/2017",
+	"perguntas":[{
+		"ordem":"1",
+		"texto":"A Sociedade possui operações contabilizadas sujeitas às aplicações das medidas regulamentadas pela Lei 12.973/2014 e pela IN 1.700/2017?",
+		"respostas":[{"resposta":"Sim"},{"resposta":"Não"},{"resposta":"Não sei dizer"}]
+		},
+		{
+		"ordem":"2",
+		"texto":"A Sociedade possui diferenças de adoção inicial na conversão da Lei 12.973/2014 e reguladas pelo art. 291 da IN 1.700/2017?",
+		"respostas":[{"resposta":"Sim"},{"resposta":"Não"},{"resposta":"Não sei dizer"}]
+		},
+				{
+		"ordem":"3",
+		"texto":"Caso a resposta da pergunta 2 seja 'Sim', Sociedade possui a evidência dos ajustes de adoção inicial contabilizados em subcontas distintas no Ativo e no Passivo?",
+		"respostas":[{"resposta":"Sim"},{"resposta":"Não"},{"resposta":"Não sei dizer"}]
+		},
+				{
+		"ordem":"4",
+		"texto":"Caso as respostas das perguntas 2 e 3 sejam 'Sim', a diferença apurada na adoção inicial foi apurada levando em conta as diferenças de contabilidade societária e fiscal apuradas no Fcont?",
+		"respostas":[{"resposta":"Sim"},{"resposta":"Não"},{"resposta":"Não sei dizer"}]
+		},
+		{
+		"ordem":"5",
+		"texto":"A Sociedade adiciona e exclui os efeitos das diferenças de adoção inicial na base de cálculo do Lucro Real?",
+		"respostas":[{"resposta":"Sim"},{"resposta":"Não"},{"resposta":"Não sei dizer"}]
+		},
+				{
+		"ordem":"6",
+		"texto":"A Sociedade foi optante pelos efeitos da Lei 12.973/2014 no ano calendário de 2014?",
+		"respostas":[{"resposta":"Sim"},{"resposta":"Não"},{"resposta":"Não sei dizer"}]
+		},
+						{
+		"ordem":"7",
+		"texto":"A Sociedade deprecia os bens de acordo com a vida útil econômica do bem baseada em laudo técnico, ou deprecia por meio das taxas fiscais fixadas no anexo III da IN 1.700/2017?",
+		"respostas":[{"resposta":"Sim"},{"resposta":"Não"},{"resposta":"Não sei dizer"}]
+		},
+								{
+		"ordem":"8",
+		"texto":"Se a resposta da pergunta 7 for 'Sim', a Sociedade já depreciava os bens pela vida útil econômica do bem anteriormente a 2014?",
+		"respostas":[{"resposta":"Sim"},{"resposta":"Não"},{"resposta":"Não sei dizer"}]
+		},
+										{
+		"ordem":"9",
+		"texto":"A Sociedade contabiliza ajustes relativos a Ajuste a Valor Presente? Adiciona ou exclui os efeitos no resultado na base de cálculo do Lucro Real?",
+		"respostas":[{"resposta":"Contabilizo e adiciono/excluo"},{"resposta":"Contabilizo mas não adiciono/excluo"},{"resposta":"Não contabilizo esse ajuste"},{"resposta":"Não sei dizer"}]
+		},
+		{
+		"ordem":"10",
+		"texto":"A Sociedade contabiliza ajustes relativos a Ajuste a Valor Justo? Adiciona ou exclui os efeitos no resultado na base de cálculo do Lucro Real?",
+		"respostas":[{"resposta":"Contabilizo e adiciono/excluo"},{"resposta":"Contabilizo mas não adiciono/excluo"},{"resposta":"Não contabilizo esse ajuste"},{"resposta":"Não sei dizer"}]
+		},
+				{
+		"ordem":"11",
+		"texto":"A Sociedade possui contratos de longo prazo com reconhecimento dos custos e receitas pelo método POC (pela mensuração da evolução do projeto)? ",
+		"respostas":[{"resposta":"Sim, possuo contratos de longo prazo e reconheço os custos e receitas pelo POC"},{"resposta":"Sim, possuo contratos de longo prazo mas não reconheço os custos e receitas pelo POC"},{"resposta":"Não possuo contratos de longo prazo"},{"resposta":"Não sei dizer"}]
+		},
+				{
+		"ordem":"12",
+		"texto":"Caso a resposta da pergunta 11 seja 'Sim, possuo contratos de longo prazo e reconheço os custos e receitas pelo POC', a Sociedade difere o lucro e ajusta na base de cálculo do Lucro Real conforme o reconhecimento da receita e do custo?",
+		"respostas":[{"resposta":"Sim, faço o diferimento do lucro e adiciono/excluo na base de cálculo do Lucro Real"},{"resposta":"Sim, faço o diferimento do lucro mas apenas para fins contábeis e não adiciono/excluo na base de cálculo do Lucro Real"},{"resposta":"Não sei dizer"}]
+		},
+				{
+		"ordem":"13",
+		"texto":"Possui bens adquiridos na forma de arrendamento mercantil financeiro? Caso sim, adiciona as despesas de depreciação e exclui as contrapartidas pagas?",
+		"respostas":[{"resposta":"Sim, adiciono as depreciações e excluo as contraprestações pagas"},{"resposta":"Sim, mas não adiciono as depreciações não e excluo as contraprestações pagas"},{"resposta":"Não possuo arrendamento mercantil financeiro"},{"resposta":"Não sei dizer"}]
+		},
+						{
+		"ordem":"14",
+		"texto":"A Sociedade adquiriu a participação societária da outra empresa até o ano calendário de 2014? É baseado em laudo técnico efetuado por perito independente?",
+		"respostas":[{"resposta":"Sim, possuo participações em outras empresas antes e até dez/2014. É baseado em laudo técnico."},{"resposta":"Sim, possuo participações em outras empresas antes e até dez/2014. Não é baseado em laudo técnico."},{"resposta":"Não possuo participações em outras empresas antes e até dez/2014."},{"resposta":"Não sei dizer."}]
+		},
+		{
+		"ordem":"15",
+		"texto":"A Sociedade amortiza, para fins fiscais, o ágio avaliado por rentabilidade futura, relativo as participações adquiridas e mencionadas na pergunta 14?",
+		"respostas":[{"resposta":"Sim, amortizo o ágio para fins fiscais"},{"resposta":"Não amortizo o ágio para fins fiscais"},{"resposta":"Não houve ágio gerado na aquisição das participações societárias"},{"resposta":"Não sei dizer."}]
+		},
+		{
+		"ordem":"16",
+		"texto":"O ágio foi gerado por ocasião de compra de outra empresa? Se sim, a empresa foi incorporada até 31 de dezembro de 2017?",
+		"respostas":[{"resposta":"Sim, o ágio foi gerado na incorporação de outra empresa. A incorporação ocorreu até 31/12/2017"},{"resposta":"Sim, o ágio foi gerado na incorporação de outra empresa. A incorporação ocorreu depois de 31/12/2017"},{"resposta":"O ágio foi gerado mas não houve incorporação de outra empresa"},{"resposta":"Não sei dizer."}]
+		},
+				{
+		"ordem":"17",
+		"texto":"Caso a empresa tenha sido incorporada após 31 de dezembro de 2017, a Sociedade efetuou o desdobramento do custo de aquisição entre: valor do patrimônio líquido, mais valia ou menos valia, ágio por rentabilidade futura (goodwill)? Caso sim, a Sociedade evidenciou a segregação dos saldos em subcontas distintas no balancete?",
+		"respostas":[{"resposta":"Sim, foi efetuado o desdobramento do custo de aquisição e estão evidenciados em subcontas distintas"},{"resposta":"Sim, foi efetuado o desdobramento do custo de aquisição mas não estão evidenciados em subcontas distintas"},{"resposta":"Não foi feito o desdobramento do custo de aquisição"},{"resposta":"Não sei dizer."}]
+		},
+				{
+		"ordem":"18",
+		"texto":"A Sociedade adiciona/exclui a realização do mais ou menos valia e o ágio? Todas as informações estão suportadas por laudo?",
+		"respostas":[{"resposta":"Sim"},{"resposta":"Não"},{"resposta":"Não possuo saldos de mais ou menos valia"},{"resposta":"Não sei dizer"}]
+		},
+				{
+		"ordem":"19",
+		"texto":"A incorporação foi feita ou será feita com uma empresa do mesmo grupo econômico?",
+		"respostas":[{"resposta":"Sim"},{"resposta":"Não"},{"resposta":"Não sei dizer"}]
+		}
+	]
+}

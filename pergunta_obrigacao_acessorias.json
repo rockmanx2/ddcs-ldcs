@@ -1,0 +1,56 @@
+{
+	"titulo":"Obrigações Acessórias",
+	"ordem":2,
+	"descricao":"IV. Perguntas gerais acerca das principais obrigações acessórias",
+	"perguntas":[{
+		"ordem":"1",
+		"texto":"A Sociedade preencheu e transmitiu a Receita Federal Brasileira - RFB a ECD nos últimos 5 anos?",
+		"respostas":[{"resposta":"Sim"},{"resposta":"Não"},{"resposta":"Não sei dizer"}]
+		},
+		{
+		"ordem":"2",
+		"texto":"A Sociedade preencheu e transmitiu a Receita Federal Brasileira - RFB a DIPJ e a ECF nos últimos 5 anos?",
+		"respostas":[{"resposta":"Sim"},{"resposta":"Não"},{"resposta":"Não sei dizer"}]
+		},
+				{
+		"ordem":"3",
+		"texto":"As informações contábeis declaradas na ECD estão de acordo com as informações contábeis informadas na DIPJ e na ECF?",
+		"respostas":[{"resposta":"Sim"},{"resposta":"Não"},{"resposta":"Não sei dizer"}]
+		},
+				{
+		"ordem":"4",
+		"texto":"O cálculo do Lucro Real, Presumido ou Arbitrado da ECF do respectivo ano calendário está de acordo com a memória de cálculo da Sociedade?",
+		"respostas":[{"resposta":"Sim"},{"resposta":"Não"},{"resposta":"Não sei dizer"}]
+		},
+		{
+		"ordem":"5",
+		"texto":"Algumas dessas declarações informadas anteriormente foram entregues em atraso ou não foram entregues?",
+		"respostas":[{"resposta":"Sim"},{"resposta":"Não"},{"resposta":"Não sei dizer"}]
+		},
+				{
+		"ordem":"6",
+		"texto":"A Sociedade transmitiu a RFB as DCTFs dos períodos do ano mesmo que estivessem sem débitos a declarar?",
+		"respostas":[{"resposta":"Sim"},{"resposta":"Não"},{"resposta":"Não sei dizer"}]
+		},
+						{
+		"ordem":"7",
+		"texto":"A Sociedade transmitiu a RFB Pedidos de Compensação ou Declarações de Compensação - PER/Dcomp durante o ano calendário?",
+		"respostas":[{"resposta":"Sim"},{"resposta":"Não"},{"resposta":"Não sei dizer"}]
+		},
+								{
+		"ordem":"8",
+		"texto":"Os créditos compensados foram oriundos de saldos negativo de IRPJ e CSLL?",
+		"respostas":[{"resposta":"Sim"},{"resposta":"Não"},{"resposta":"Não sei dizer"}]
+		},
+										{
+		"ordem":"9",
+		"texto":"Caso a resposta da pergunta 7 seja 'Sim', os créditos de saldo negativo de IRPJ e CSLL informados na Per/Dcomp são os mesmos informados na DIPJ ou na ECF do respectivo ano calendário de origem dos créditos?",
+		"respostas":[{"resposta":"Sim"},{"resposta":"Não"},{"resposta":"Não sei dizer"}]
+		},
+		{
+		"ordem":"10",
+		"texto":"Os créditos utilizados na Per/Dcomp foram constituídos há mais de 5 (cinco) anos?",
+		"respostas":[{"resposta":"Sim"},{"resposta":"Não"},{"resposta":"Não sei dizer"}]
+		}
+	]
+}

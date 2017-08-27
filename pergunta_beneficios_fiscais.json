@@ -1,0 +1,71 @@
+{
+	"titulo":"Benefícios Fiscais",
+	"ordem":5,
+	"descricao":"V. Perguntas gerais acerca dos incentivos fiscais",
+	"perguntas":[{
+		"ordem":"1",
+		"texto":"Você utiliza o incentivo fiscal do PAT (Programa de Alimentação do Trabalhador)?",
+		"respostas":[{"resposta":"Sim"},{"resposta":"Não"},{"resposta":"Não sei dizer"}]
+		},
+		{
+		"ordem":"2",
+		"texto":"Caso a resposta da pergunta 1 seja sim 'sim', a Sociedade observa os limites de dedução conforme instrui a IN SRF 267/2002?",
+		"respostas":[{"resposta":"Sim"},{"resposta":"Não"},{"resposta":"Não sei dizer"}]
+		},
+				{
+		"ordem":"3",
+		"texto":"A Sociedade deduz do imposto de renda devido algum valor relativo as seguintes doações, contribuições e/ou patrocínios:",
+		"respostas":[{"resposta":"Sim"},{"resposta":"Não"},{"resposta":"Não sei dizer"}]
+		},
+				{
+		"ordem":"4",
+		"texto":"doações e contribuições abaixo: ao FUNCAD;",
+		"respostas":[{"resposta":"Sim"},{"resposta":"Não"},{"resposta":"Não sei dizer"}]
+		},
+		{
+		"ordem":"5",
+		"texto":"Fundos, nacional, estadual e municipal do idoso;",
+		"respostas":[{"resposta":"Sim"},{"resposta":"Não"},{"resposta":"Não sei dizer"}]
+		},
+				{
+		"ordem":"6",
+		"texto":"doações ou patrocínios ao PRONON, PRONAS/PCD;",
+		"respostas":[{"resposta":"Sim"},{"resposta":"Não"},{"resposta":"Não sei dizer"}]
+		},
+						{
+		"ordem":"7",
+		"texto":"doações ou patrocínios a título de apoio a atividades culturais e artísticas;",
+		"respostas":[{"resposta":"Sim"},{"resposta":"Não"},{"resposta":"Não sei dizer"}]
+		},
+								{
+		"ordem":"8",
+		"texto":"doações ou patrocínios a título de apoio a atividades audiovisuais;",
+		"respostas":[{"resposta":"Sim"},{"resposta":"Não"},{"resposta":"Não sei dizer"}]
+		},
+										{
+		"ordem":"9",
+		"texto":"investimentos, aos patrocínios e à aquisição de quotas de Funcines;",
+		"respostas":[{"resposta":"Sim"},{"resposta":"Não"},{"resposta":"Não sei dizer"}]
+		},
+										{
+		"ordem":"10",
+		"texto":"às doações e patrocínios realizados a título de apoio ao esporte",
+		"respostas":[{"resposta":"Sim"},{"resposta":"Não"},{"resposta":"Não sei dizer"}]
+		},
+										{
+		"ordem":"11",
+		"texto":"à remuneração da empregada paga no período de prorrogação da licença-maternidade?",
+		"respostas":[{"resposta":"Sim"},{"resposta":"Não"},{"resposta":"Não sei dizer"}]
+		},
+										{
+		"ordem":"11",
+		"texto":"Caso a Sociedade tenha selecionado, pelo menos uma das respostas anteriores, a Sociedade deduz o valor da doação no imposto de renda devido dentro dos limites estabelecidos por Lei, de acordo com a Lei de cada incentivo?",
+		"respostas":[{"resposta":"Sim"},{"resposta":"Não"},{"resposta":"Não sei dizer"}]
+		},
+										{
+		"ordem":"11",
+		"texto":"A Sociedade adiciona na base de cálculo do Lucro Real as despesas das tais doações, contribuições e patrocínios?",
+		"respostas":[{"resposta":"Sim"},{"resposta":"Não"},{"resposta":"Não sei dizer"}]
+		}
+	]
+}

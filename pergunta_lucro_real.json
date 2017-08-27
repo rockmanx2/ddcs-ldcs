@@ -1,0 +1,66 @@
+﻿{
+	"titulo":"Lucro Real",
+	"ordem":1,
+	"descricao":"I. Perguntas gerais acerca do cálculo do Lucro Real",
+	"perguntas":[{
+		"ordem":"1",
+		"texto":"A apuração do Lucro Real é trimestral ou anual?",
+		"respostas":[{"resposta":"anual"},{"resposta":"trimestral"}]
+		},
+		{
+		"ordem":"2",
+		"texto":"A Sociedade apura o Lucro Real pela sistemática de Estimativa de Receita Bruta, por Suspensão e Redução ou por ambos?",
+		"respostas":[{"resposta":"Suspensão e Redução"},{"resposta":"Receita Bruta"}]
+		},
+				{
+		"ordem":"3",
+		"texto":"A Sociedade avalia mensalmente a viabiliade de economia tributária em apurar o Lucro Real por suspensão e redução e por estimativa de receita bruta?",
+		"respostas":[{"resposta":"Sim"},{"resposta":"Não"},{"resposta":"Não sei dizer"}]
+		},
+				{
+		"ordem":"4",
+		"texto":"Possui memória de cálculo em arquivo eletrônico (por exemplo, excel) que evidencie como o cálculo do Lucro Real foi feito?",
+		"respostas":[{"resposta":"Sim"},{"resposta":"Não"},{"resposta":"Não sei dizer"}]
+		},
+		{
+		"ordem":"5",
+		"texto":"Possui controle analítico em arquivo eletrônico que evidencie como foram apuradas as adições e exclusões?",
+		"respostas":[{"resposta":"Sim"},{"resposta":"Não"},{"resposta":"Não sei dizer"}]
+		},
+				{
+		"ordem":"6",
+		"texto":"A Sociedade possui a evidenciação contábil das adições e exclusões em contas contábeis separadas no Resultado?",
+		"respostas":[{"resposta":"Sim"},{"resposta":"Não"},{"resposta":"Não sei dizer"}]
+		},
+						{
+		"ordem":"7",
+		"texto":"Podem haver contas contábeis onde em uma mesma conta contém saldos dedutíveis e indedutíveis?",
+		"respostas":[{"resposta":"Sim"},{"resposta":"Não"},{"resposta":"Não sei dizer"}]
+		},
+								{
+		"ordem":"8",
+		"texto":"Possui 'estoque' de saldo de Prejuízo Fiscal (PF) e Base de Cálculo Negativa da CSLL (BCN da CSLL) a compensar de anos anteriores?",
+		"respostas":[{"resposta":"Sim"},{"resposta":"Não"},{"resposta":"Não sei dizer"}]
+		},
+										{
+		"ordem":"9",
+		"texto":"Caso a resposta 7 seja afirmativa, possui controle analítico dos saldos de prejuízo fiscal e base de cálculo negativa da CSLL?",
+		"respostas":[{"resposta":"Sim"},{"resposta":"Não"},{"resposta":"Não sei dizer"}]
+		},
+		{
+		"ordem":"10",
+		"texto":"O Controle mencionado na pergunta anterior é confrontado com os saldos de PF e BCN da CSLL declarados nas DIPJs e nas ECFs?",
+		"respostas":[{"resposta":"Sim"},{"resposta":"Não"},{"resposta":"Não sei dizer"}]
+		},
+				{
+		"ordem":"11",
+		"texto":"A Sociedade está apurando Lucro Real tributável ou Prejuízo Fiscal no ano calendário atual?",
+		"respostas":[{"resposta":"Lucro Real Tributável"},{"resposta":"Prejuízo Fiscal"},{"resposta":"Não sei dizer"}]
+		},
+				{
+		"ordem":"12",
+		"texto":"Em caso de apuração do Lucro Real tributável, a Sociedade está compensando-os com os saldos 'estocados' de PF e BCN da CSLL?",
+		"respostas":[{"resposta":"Lucro Real Tributável"},{"resposta":"Prejuízo Fiscal"},{"resposta":"Não sei dizer"}]
+		}
+	]
+}

@@ -1,0 +1,46 @@
+{
+	"titulo":"Lucro da Exploração",
+	"ordem":6,
+	"descricao":"VI. Perguntas gerais acerca do Lucro da Exploração",
+	"perguntas":[{
+		"ordem":"1",
+		"texto":"Você utiliza o benefício fiscal do cálculo do Lucro da Exploração?",
+		"respostas":[{"resposta":"Sim"},{"resposta":"Não"},{"resposta":"Não sei dizer"}]
+		},
+		{
+		"ordem":"2",
+		"texto":"A Sociedade possui o laudo constitutivo protocolizado pelo órgão competente do MI com a indicação do projeto aprovado, o percentual de incentivo e a Região onde o empreendimento abrangido pelo incentivo está instalado?",
+		"respostas":[{"resposta":"Sim"},{"resposta":"Não"},{"resposta":"Não sei dizer"}]
+		},
+				{
+		"ordem":"3",
+		"texto":"Caso a resposta 2 seja 'sim', o laudo constitutivo está dentro do prazo de fruição?",
+		"respostas":[{"resposta":"Movimentação Patrimonial"},{"resposta":"Parte pela movimentação patrimonial e parte pelas contas de resultado"},{"resposta":"Contas de Resultado"},{"resposta":"Não sei dizer"}]
+		},
+				{
+		"ordem":"4",
+		"texto":"A Sociedade segrega na contabilidade as receitas e custos incentivados e não incentivados, como custos, receitas, despesas e receitas financeiras, etc.?",
+		"respostas":[{"resposta":"Sim"},{"resposta":"Não"},{"resposta":"Não sei dizer"}]
+		},
+		{
+		"ordem":"5",
+		"texto":"A Sociedade possui controle das atividades abrangidas pelo incentivo, bem como os limites de produção garantidos para a fruição do incentivo?",
+		"respostas":[{"resposta":"Sim"},{"resposta":"Não"},{"resposta":"Não sei dizer"}]
+		},
+				{
+		"ordem":"6",
+		"texto":"A Sociedade possui memória de cálculo do Lucro da Exploração?",
+		"respostas":[{"resposta":"Sim"},{"resposta":"Não"},{"resposta":"Não sei dizer"}]
+		},
+						{
+		"ordem":"7",
+		"texto":"A Sociedade utiliza o benefício do cálculo do Lucro da Exploração para outras  modalidades, como por exemplo, o PROUNI?",
+		"respostas":[{"resposta":"Sim"},{"resposta":"Não"},{"resposta":"Não sei dizer"}]
+		},
+								{
+		"ordem":"8",
+		"texto":"Caso a resposta 6 seja 'sim', a Sociedade observa os critérios de ocupação das bolsas efetivas proporcionais de acordo com o cálculo POEB?",
+		"respostas":[{"resposta":"Sim"},{"resposta":"Não"},{"resposta":"Não sei dizer"}]
+		}
+	]
+}

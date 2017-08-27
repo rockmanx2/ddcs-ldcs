@@ -1,0 +1,51 @@
+{
+	"titulo":"Provisões Temporárias",
+	"ordem":2,
+	"descricao":"II. Perguntas gerais acerca das provisões temporariamente indedutíveis",
+	"perguntas":[{
+		"ordem":"1",
+		"texto":"Possui provisões temporariamente indedutíveis sendo adicionadas?",
+		"respostas":[{"resposta":"Sim"},{"resposta":"Não"},{"resposta":"Não sei dizer"}]
+		},
+		{
+		"ordem":"2",
+		"texto":"As provisões temporárias são controladas a parte, em algum documento suporte, como o excel?",
+		"respostas":[{"resposta":"Sim"},{"resposta":"Não"},{"resposta":"Não sei dizer"}]
+		},
+				{
+		"ordem":"3",
+		"texto":"As adições das provisões temporárias são adicionadas pelas contas de resultado ou pela movimentação patrimonial das contas (ou seja, movimentando as provisões pelas contas de ativo e passivo)?",
+		"respostas":[{"resposta":"Movimentação Patrimonial"},{"resposta":"Parte pela movimentação patrimonial e parte pelas contas de resultado"},{"resposta":"Contas de Resultado"},{"resposta":"Não sei dizer"}]
+		},
+				{
+		"ordem":"4",
+		"texto":"A Sociedade possui conta(s) específica(s) no resultado para evidenciar o saldo das provisões temporárias?",
+		"respostas":[{"resposta":"Sim"},{"resposta":"Não"},{"resposta":"Não sei dizer"}]
+		},
+		{
+		"ordem":"5",
+		"texto":"A Sociedade possui provisões que não são adicionadas mas que deveriam ser adicionadas?",
+		"respostas":[{"resposta":"Sim"},{"resposta":"Não"},{"resposta":"Não sei dizer"}]
+		},
+				{
+		"ordem":"6",
+		"texto":"A Sociedade possui provisões que não são adicionadas de acordo com o art. 70 da IN 1.700/2017?",
+		"respostas":[{"resposta":"Sim"},{"resposta":"Não"},{"resposta":"Não sei dizer"}]
+		},
+						{
+		"ordem":"7",
+		"texto":"Com relação a provisão de devedores duvidosos, a Sociedade avalia periodicamente a possibilidade de aplicação do art. 71 da IN 1.700/2017 com relação a dedutibilidade das baixas na recuperação de créditos?",
+		"respostas":[{"resposta":"Sim"},{"resposta":"Não"},{"resposta":"Não sei dizer"}]
+		},
+								{
+		"ordem":"8",
+		"texto":"A Sociedade baixou contra o Resultado títulos incobráveis de clientes?",
+		"respostas":[{"resposta":"Sim"},{"resposta":"Não"},{"resposta":"Não sei dizer"}]
+		},
+										{
+		"ordem":"9",
+		"texto":"A Sociedade toma a dedutibilidade dos títulos incobráveis?",
+		"respostas":[{"resposta":"Sim"},{"resposta":"Não"},{"resposta":"Não sei dizer"}]
+		}
+	]
+}
