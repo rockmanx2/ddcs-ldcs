@@ -1,7 +1,7 @@
 ﻿const http = require('http');
 
-const hostname = '127.0.0.1';
-const port = 80;
+var hostname = process.env.OPENSHIFT_NODEJS_PORT || 8080
+var port = process.env.OPENSHIFT_NODEJS_IP || '127.0.0.1'
 
 var path = require('path'),    
 	express = require('express');
