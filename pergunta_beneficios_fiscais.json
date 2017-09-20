@@ -58,12 +58,12 @@
 		"respostas":[{"resposta":"Sim"},{"resposta":"Não"},{"resposta":"Não sei dizer"}]
 		},
 										{
-		"ordem":"11",
+		"ordem":"12",
 		"texto":"Caso a Sociedade tenha selecionado, pelo menos uma das respostas anteriores, a Sociedade deduz o valor da doação no imposto de renda devido dentro dos limites estabelecidos por Lei, de acordo com a Lei de cada incentivo?",
 		"respostas":[{"resposta":"Sim"},{"resposta":"Não"},{"resposta":"Não sei dizer"}]
 		},
 										{
-		"ordem":"11",
+		"ordem":"13",
 		"texto":"A Sociedade adiciona na base de cálculo do Lucro Real as despesas das tais doações, contribuições e patrocínios?",
 		"respostas":[{"resposta":"Sim"},{"resposta":"Não"},{"resposta":"Não sei dizer"}]
 		}
